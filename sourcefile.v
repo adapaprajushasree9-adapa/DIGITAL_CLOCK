@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module clk_divider(
     output reg clkout,
     input clk,
