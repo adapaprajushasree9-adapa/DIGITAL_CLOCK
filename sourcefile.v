@@ -17,7 +17,7 @@ begin
     end
     else
     begin
-    if(count==4)
+        if(count==49_000_000)
     begin
         clkout<=~clkout;
         count<=0;
